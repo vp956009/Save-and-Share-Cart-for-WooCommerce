@@ -1,12 +1,6 @@
-===Save and Share Cart for WooCommerce===
-Tested up to: 5.5.1
-Tags: woocommerce save cart, woocommerce Share cart
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1>Save and Share Cart for WooCommerce</h1>
 
-== Description ==
-
-**Share and Save Cart For Woocommerce** provide you can be directly share and save cart in your account if you want to share your cart to people you can be do by this plugin. easy to set up on [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) qty to make Discount Price Woocommerce.
+**[Share and Save Cart For Woocommerce](https://wordpress.org/plugins/wc-save-and-share-cart/)** provide you can be directly share and save cart in your account if you want to share your cart to people you can be do by this plugin. easy to set up on [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) qty to make Discount Price Woocommerce.
 
 > **Plugin Features**
 >
@@ -22,6 +16,6 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 > * Easy to use
 
 <h3>How to add Share and Save Cart For Woocommerce</h3>
-<iframe width="640" height="345" src="https://www.youtube.com/embed/aWnzL1CUWmw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
